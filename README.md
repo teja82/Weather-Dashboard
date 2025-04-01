@@ -25,7 +25,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone https://github.com/teja82/Weather-Dashboard.git
 Navigate to the project directory:
 
 bash
