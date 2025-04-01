@@ -34,3 +34,5 @@ Edit
 cd weather-dashboard
 Open index.html in a browser.
 
+📜 License
+This project is licensed under the MIT License.
