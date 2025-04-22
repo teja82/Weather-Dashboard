@@ -1,38 +1,37 @@
-🌦 Weather Dashboard
-A simple and elegant Weather Dashboard that allows users to check the current weather conditions of any city. The app fetches real-time weather data using the OpenWeather API and displays essential details such as temperature, humidity, wind speed, and weather conditions with corresponding icons.
+# 🌦 **Weather Dashboard**
+A simple and elegant Weather Dashboard that allows users to check the current weather conditions of any city.<br> The app fetches real-time weather data using the OpenWeather API and displays essential details such as temperature, humidity, wind speed, and weather conditions with corresponding icons.
 
-✨ Features
-🌍 Search for weather conditions in any city.
+## **✨ Features**
+- 🌍 Search for weather conditions in any city.
+- 🌡 Displays temperature, humidity, and wind speed.
+- ☁️ Dynamic weather icons based on real-time conditions.
+- 🔄 Responsive and modern UI with a glassmorphic design.
+- 🚀 Fetches live weather data from the OpenWeather API.
 
-🌡 Displays temperature, humidity, and wind speed.
+## 🔧 **Technologies Used**
 
-☁️ Dynamic weather icons based on real-time conditions.
+- 🌐 **OpenWeather API** – For fetching real-time weather data
+- ⚙️ **Fetch API** – To make asynchronous API requests
+- 🧩 **HTML, CSS, JavaScript** – For structure, style, and interactivity
 
-🔄 Responsive and modern UI with a glassmorphic design.
+---
 
-🚀 Fetches live weather data from the OpenWeather API.
+## 🚀 **Getting Started**
 
-🛠️ Technologies Used
-HTML5, CSS3, JavaScript
+Follow these steps to run the project locally:
 
-OpenWeather API for weather data
-
-Fetch API for asynchronous requests
-
-🚀 Getting Started
-Clone the repository:
-
-bash
-Copy
-Edit
+### 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/teja82/Weather-Dashboard.git
-Navigate to the project directory:
+```
+### 2️⃣ Navigate into the Project Folder
+```bash
+cd Weather-Dashboard
+```
 
-bash
-Copy
-Edit
-cd weather-dashboard
-Open index.html in a browser.
+### 3️⃣ Open the App
+Open **index.html** in your favorite web browser.
 
-📜 License
+
+## **📜 License**
 This project is licensed under the MIT License.
