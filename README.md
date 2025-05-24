@@ -14,24 +14,6 @@ A simple and elegant Weather Dashboard that allows users to check the current we
 - ⚙️ **Fetch API** – To make asynchronous API requests
 - 🧩 **HTML, CSS, JavaScript** – For structure, style, and interactivity
 
----
-
-## 🚀 **Getting Started**
-
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/teja82/Weather-Dashboard.git
-```
-### 2️⃣ Navigate into the Project Folder
-```bash
-cd Weather-Dashboard
-```
-
-### 3️⃣ Open the App
-Open **index.html** in your favorite web browser.
-
-
 ## **📜 License**
+
 This project is licensed under the MIT License.
